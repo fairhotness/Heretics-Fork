@@ -203,3 +203,6 @@ This repository serves as the official landing page for Heretic's Fork. The soft
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Heretic's Fork today!**
+
+---
+**Last updated:** 2026-11-07 00:34:46 UTC
