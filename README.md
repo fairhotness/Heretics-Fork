@@ -205,4 +205,4 @@ This repository serves as the official landing page for Heretic's Fork. The soft
 **Get the most recent version of Heretic's Fork today!**
 
 ---
-**Last updated:** 2026-11-07 13:42:27 UTC
+**Last updated:** 2026-11-07 18:26:52 UTC
